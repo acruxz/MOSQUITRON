@@ -1,0 +1,27 @@
+{
+   "name": "MOSQUITRON",
+   "logoURI": "https://cdn.sunpump.meme/public/logo/MOSQUITRON_TPgZj5_IRgwIjB70Gur.jpg",
+   "timestamp": 1724620072888,
+   "tokens": [{
+           "chainId": 1,
+           "address": "TG2Hr2EYeh1twrEM8b7GocAVJQNL25AmCt",
+           "name": "MOSQUITRON",
+           "symbol": "MOSQUITRON",
+           "decimals": 8,
+           "logoURI": "https://cdn.sunpump.meme/public/logo/MOSQUITRON_TPgZj5_IRgwIjB70Gur.jpg"
+       },
+       {
+           "chainId": 1,
+           "address": "TG2Hr2EYeh1twrEM8b7GocAVJQNL25AmCt",
+           "name": "MOSQUITRON",
+           "symbol": "MOSQUITRON",
+           "decimals": 18,
+           "logoURI": "https://cdn.sunpump.meme/public/logo/MOSQUITRON_TPgZj5_IRgwIjB70Gur.jpg"
+       }
+   ],
+   "version": {
+       "major": 1,
+       "minor": 0,
+       "patch": 0
+   }
+}
